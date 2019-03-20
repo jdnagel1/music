@@ -1,4 +1,11 @@
+img {
+  float: left;
+  padding: 10px;
+}
 
+.fancy {
+  float: left;
+}
 
 h1 {
   color: red;
